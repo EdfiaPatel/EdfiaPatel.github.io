@@ -1,3 +1,7 @@
 #footer:before {
     content: none !important;
 }
+
+footer {
+    color: #000000; /* 这里是你想要的颜色值 */
+  }
