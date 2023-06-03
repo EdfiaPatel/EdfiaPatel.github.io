@@ -3319,7 +3319,7 @@ h1.page-title + .tag-cloud-list {
 }
 #footer {
   position: relative;
-  background-color: #808080;
+  background-color: $light-white;
   background-attachment: scroll;
   background-position: bottom;
   background-size: cover;
@@ -3334,11 +3334,11 @@ h1.page-title + .tag-cloud-list {
 #footer-wrap {
   position: relative;
   padding: 40px 20px;
-  color: var(--light-grey);
+  color: var(--light-black);
   text-align: center;
 }
 #footer-wrap a {
-  color: var(--light-grey);
+  color: var(--light-black);
 }
 #footer-wrap a:hover {
   text-decoration: underline;
