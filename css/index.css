@@ -2950,7 +2950,7 @@ h1.page-title + .tag-cloud-list {
   color: #808080;
 }
 #aside-content #card-toc .toc-content .toc-link.active {
-  background: #000;
+  background: #808080;
   color: #fff;
 }
 #aside-content .sticky_layout:only-child > :first-child {
